@@ -8,8 +8,10 @@ flask = "*"
 flask-wtf = "*"
 flask-sqlalchemy = "*"
 flask-migrate = "*"
+flask-login = "*"
 
 [dev-packages]
+ipython = "*"
 
 [requires]
 python_version = "3.6"
